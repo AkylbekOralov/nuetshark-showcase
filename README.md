@@ -1,10 +1,10 @@
 # NuetShark
 
-<img width="1624" height="975" alt="Image" src="https://github.com/user-attachments/assets/cd70da59-b81e-4de7-b80d-7d2a9ea16583" />
-
 NuetShark is an iOS exam-prep app for students preparing for the new GET exam at Nazarbayev University.
 
 This public repository is a project overview only. The production source code is private while I prepare the app for release.
+
+<img width="1624" height="975" alt="Image" src="https://github.com/user-attachments/assets/cd70da59-b81e-4de7-b80d-7d2a9ea16583" />
 
 ## What I built
 
