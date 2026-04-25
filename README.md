@@ -1,6 +1,6 @@
 # NuetShark
 
-<img width="400" height="260" alt="Image" src="https://github.com/user-attachments/assets/8ad68c36-8618-4f3c-9ffd-b03e59e2c0b6" />
+<img width="1624" height="975" alt="Image" src="https://github.com/user-attachments/assets/cd70da59-b81e-4de7-b80d-7d2a9ea16583" />
 
 NuetShark is an iOS exam-prep app for students preparing for the new GET exam at Nazarbayev University.
 
