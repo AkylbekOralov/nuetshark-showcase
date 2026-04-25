@@ -15,11 +15,11 @@ This public repository is a project overview only. The production source code is
 - Student-oriented structure for repeatable exam preparation
   
 <p align="center">  
-  <img width="1206" height="2622" alt="Image" src="https://github.com/user-attachments/assets/52300758-47ad-43e8-8db6-0e98a81bd10e" />
-  <img width="1206" height="2622" alt="Image" src="https://github.com/user-attachments/assets/3fa7884f-47e7-429a-8732-c59625bcb29d" />
-  <img width="1206" height="2622" alt="Image" src="https://github.com/user-attachments/assets/c4413327-5671-4b39-a963-42f426b9fb5c" />
-  <img width="1206" height="2622" alt="Image" src="https://github.com/user-attachments/assets/5f3b4bfe-2b30-463c-a61d-1e7af831b51d" />
-  <img width="1206" height="2622" alt="Image" src="https://github.com/user-attachments/assets/d9a03189-905e-4be7-bfec-f45feb7a5d5a" />
+  <img src="https://github.com/user-attachments/assets/52300758-47ad-43e8-8db6-0e98a81bd10e" width="30%"/>
+  <img src="https://github.com/user-attachments/assets/3fa7884f-47e7-429a-8732-c59625bcb29d" width="30%"/>
+  <img src="https://github.com/user-attachments/assets/c4413327-5671-4b39-a963-42f426b9fb5c" width="30%"/>
+  <img src="https://github.com/user-attachments/assets/5f3b4bfe-2b30-463c-a61d-1e7af831b51d" width="30%"/>
+  <img src="https://github.com/user-attachments/assets/d9a03189-905e-4be7-bfec-f45feb7a5d5a" width="30%"/>
 </p>
 
 ## Tech and Architecture
